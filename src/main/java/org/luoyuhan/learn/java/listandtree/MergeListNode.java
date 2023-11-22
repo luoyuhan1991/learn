@@ -1,8 +1,8 @@
 package org.luoyuhan.learn.java.listandtree;
 
-import org.luoyuhan.learn.model.ListNode;
-import org.luoyuhan.learn.model.NodeUtil;
-import org.luoyuhan.learn.serialiazation.ProtoStuffUtil;
+import org.luoyuhan.learn.common.model.ListNode;
+import org.luoyuhan.learn.common.model.NodeUtil;
+import org.luoyuhan.learn.java.serialiazation.ProtoStuffUtil;
 
 import java.util.Arrays;
 import java.util.Comparator;

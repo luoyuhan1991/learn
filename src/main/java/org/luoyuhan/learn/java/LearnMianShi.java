@@ -1,6 +1,6 @@
 package org.luoyuhan.learn.java;
 
-import org.luoyuhan.common.Pair;
+import org.luoyuhan.learn.common.Pair;
 
 import java.util.*;
 import java.util.concurrent.*;

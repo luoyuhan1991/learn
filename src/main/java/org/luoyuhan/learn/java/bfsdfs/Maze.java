@@ -1,7 +1,7 @@
 package org.luoyuhan.learn.java.bfsdfs;
 
 import lombok.AllArgsConstructor;
-import org.luoyuhan.learn.model.Point;
+import org.luoyuhan.learn.common.model.Point;
 
 import java.io.BufferedReader;
 import java.io.File;

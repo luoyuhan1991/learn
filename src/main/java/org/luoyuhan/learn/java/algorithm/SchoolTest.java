@@ -1,6 +1,6 @@
 package org.luoyuhan.learn.java.algorithm;
 
-import org.luoyuhan.common.Pair;
+import org.luoyuhan.learn.common.Pair;
 
 import java.util.Arrays;
 import java.util.HashMap;

@@ -1,7 +1,7 @@
 package org.luoyuhan.learn.java.bfsdfs;
 
-import org.luoyuhan.learn.model.NodeUtil;
-import org.luoyuhan.learn.model.TreeNode;
+import org.luoyuhan.learn.common.model.NodeUtil;
+import org.luoyuhan.learn.common.model.TreeNode;
 
 import java.util.*;
 

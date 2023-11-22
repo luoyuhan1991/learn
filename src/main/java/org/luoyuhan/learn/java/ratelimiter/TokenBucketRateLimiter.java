@@ -1,7 +1,8 @@
 package org.luoyuhan.learn.java.ratelimiter;
 
-import org.apache.commons.lang.StringUtils;
+
 import org.springframework.util.StopWatch;
+import org.thymeleaf.util.StringUtils;
 
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
@@ -43,7 +44,7 @@ public class TokenBucketRateLimiter implements RateLimiter, Runnable {
 
     public boolean canPass() {
         // 有令牌即可通过
-        return StringUtils.isNotBlank(tokens.poll());
+        return !StringUtils.isEmpty(tokens.poll());
     }
 
     @Override

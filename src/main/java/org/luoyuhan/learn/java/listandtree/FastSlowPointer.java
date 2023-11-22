@@ -1,6 +1,6 @@
 package org.luoyuhan.learn.java.listandtree;
 
-import org.luoyuhan.learn.model.ListNode;
+import org.luoyuhan.learn.common.model.ListNode;
 
 public class FastSlowPointer {
 

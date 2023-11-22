@@ -1,7 +1,7 @@
 package org.luoyuhan.learn.java.bfsdfs;
 
-import org.luoyuhan.learn.model.BinaryTree;
-import org.luoyuhan.learn.model.TripleTree;
+import org.luoyuhan.learn.common.model.BinaryTree;
+import org.luoyuhan.learn.common.model.TripleTree;
 
 import java.util.*;
 

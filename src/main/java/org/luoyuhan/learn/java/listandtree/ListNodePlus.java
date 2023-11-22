@@ -1,7 +1,7 @@
 package org.luoyuhan.learn.java.listandtree;
 
 import lombok.Data;
-import org.luoyuhan.learn.model.ListNode;
+import org.luoyuhan.learn.common.model.ListNode;
 
 import java.util.Stack;
 
