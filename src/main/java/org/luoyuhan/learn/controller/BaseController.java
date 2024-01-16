@@ -24,4 +24,9 @@ public class BaseController {
     public String test2() {
         return baseBiz.getTime();
     }
+
+    @GetMapping("/test3")
+    public String test3() {
+        return "成功";
+    }
 }
