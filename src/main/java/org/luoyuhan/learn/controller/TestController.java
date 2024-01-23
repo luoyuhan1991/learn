@@ -17,6 +17,6 @@ public class TestController {
 
     @GetMapping("/testModify")
     public String testModify(String s) {
-        return classModify.publicModify(s);
+        return classModify.getPublicModify(s) + " " + classModify.getPrivateModify(s);
     }
 }
